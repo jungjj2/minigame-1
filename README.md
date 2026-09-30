@@ -1,4 +1,4 @@
-# Minigame 1
+# Jason Jung - Minigame 1
 ## Devlog
 Write your Devlog here. Delete instructional text like this line! And don't forget that you have to hit ENTER twice to create a new paragraph.
 ## Open-Source Assets
